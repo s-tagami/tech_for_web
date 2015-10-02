@@ -27,4 +27,4 @@
 
 フロントエンド・エンジニアのためのJS学習ドキュメントです。  
 
-[Javascript Documents Wiki](https://github.com/takahashiakira/jsDocs/wiki)  
+[Frontend Engineering Documents Wiki](https://github.com/takahashiakira/jsDocs/wiki)  
