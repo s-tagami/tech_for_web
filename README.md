@@ -1,10 +1,15 @@
-# Javascript Documents Wiki
+# Javascript Module
 
-FrontendエンジニアのためのJavascript学習ドキュメント
+Frontendでよく使用するJavascriptのモジュールを公開しています。  
 
-[Javascript Documents Wiki](https://github.com/takahashiakira/jsDocs/wiki)
+## Index
 
+- [errorHandling Module] (https://gist.github.com/takahashiakira/cb26d15245439c059374): AJAXの際にサーバからStatusをハンドリングしてstatusとresを返すモジュール
+- [Accordion Class Module] (https://gist.github.com/takahashiakira/5c0fcba0f5c64070656c)
 
-# Javascript Modules
+　  
+# Javascript Documents Wiki 
 
-Frontendでよく使用するJavascriptのモジュールを公開しています。
+FrontendエンジニアのためのJavascript学習ドキュメントです。  
+
+[Javascript Documents Wiki](https://github.com/takahashiakira/jsDocs/wiki)  
