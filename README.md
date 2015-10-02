@@ -5,7 +5,7 @@ Frontendでよく使用するJavascriptのモジュールを公開していま�
 ## Index
 
 - [errorHandling Module] (https://gist.github.com/takahashiakira/cb26d15245439c059374): AJAXの際にサーバからStatusをハンドリングしてstatusとresを返すモジュール
-- [Accordion Class Module] (https://gist.github.com/takahashiakira/5c0fcba0f5c64070656c)
+- [Accordion Class Module] (https://gist.github.com/takahashiakira/5c0fcba0f5c64070656c): アニメーション対応のアコーディオンモジュール。
 
 　  
 # Javascript Documents Wiki 
