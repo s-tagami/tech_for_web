@@ -4,6 +4,7 @@
 
 ## UI
 
+- [Modal Class Module](https://gist.github.com/takahashiakira/80556762b8609d91aff3): pne/close機能のみを持ったModalのベースClass
 - [Accordion Class Module] (https://gist.github.com/takahashiakira/5c0fcba0f5c64070656c): アニメーション対応のアコーディオンモジュール
 - [ToolTip Class Module](https://gist.github.com/takahashiakira/b3fecc6b7a95f78ea6e9): ツールチップのopen/closeやイベントを管理するClass
 - [SelectTab Class Module](https://gist.github.com/takahashiakira/666414f43dfa714f8338): タブ切り替えクラス
