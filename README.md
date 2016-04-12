@@ -27,4 +27,4 @@
 
 WebエンジニアのためのTechドキュメントです。  
 
-[Web Engineering Docs](https://github.com/takahashiakira/jsDocs/wiki)  
+[Web Engineering Tech Docs](https://github.com/takahashiakira/jsDocs/wiki)  
