@@ -23,8 +23,8 @@
 - [errorHandling Module](https://gist.github.com/takahashiakira/cb26d15245439c059374): AJAXの際にサーバからStatusをハンドリングしてstatusとresを返すモジュール
   
 　  
-# Frontend Engineering Documents Wiki
+# Web Engineering Tech Docs
 
-フロントエンド・エンジニアのためのJS学習ドキュメントです。  
+WebエンジニアのためのTechドキュメントです。  
 
-[Frontend Engineering Documents Wiki](https://github.com/takahashiakira/jsDocs/wiki)  
+[Web Engineering Docs](https://github.com/takahashiakira/jsDocs/wiki)  
