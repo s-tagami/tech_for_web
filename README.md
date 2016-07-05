@@ -1,8 +1,8 @@
-# Web Engineering Tech Docs
+# Web Technology for Developers
 
-## WebエンジニアのためのTechドキュメント
+## Web開発のための技術系ドキュメント
 
-- [Web Engineering Tech Docs](https://github.com/takahashiakira/jsDocs/wiki)  
+- [Web Technology for Developers Docs](https://github.com/takahashiakira/jsDocs/wiki)  
 
 ## フロントエンド・エンジニアのためのライブラリ
 
