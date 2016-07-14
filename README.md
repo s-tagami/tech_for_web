@@ -1,8 +1,8 @@
-# Web Technology for Developers
+# Technology for Web Developers
 
 ## Web開発のための技術系ドキュメント
 
-- [Web Technology for Developers Docs](https://github.com/takahashiakira/jsDocs/wiki)  
+- [Technology for Web Developers Docs](https://github.com/takahashiakira/jsDocs/wiki)  
 
 ## フロントエンド・エンジニアのためのライブラリ
 
